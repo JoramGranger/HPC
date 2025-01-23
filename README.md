@@ -1,6 +1,9 @@
 # HPC
 This documents how to setup an HPC cluster from scracth using Rocky Linux, OpenHPC, SLURM, Warewulf
 
+# Table of Contents
+
+
 ## Requirements
 - Rocky Linux ISO image
 - Bare metal server (We used a Dell Power Edge C6320p, A chassis of 4 units).
