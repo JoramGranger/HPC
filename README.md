@@ -1,7 +1,7 @@
 # HPC
 This documents how to setup an HPC cluster from scracth using Rocky Linux, OpenHPC, SLURM, Warewulf
 
-# Table of Contents
+## Table of Contents
 
 
 ## Requirements
